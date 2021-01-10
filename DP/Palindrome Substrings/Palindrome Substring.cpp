@@ -2,10 +2,12 @@
 using namespace std;
 
 const int N = 1e3 + 5;
-bool dp[N][N];
-char s[N];
 
 struct PS {
+
+	bool dp[N][N];
+	char s[N];
+	
 	void palindrome_Substrings(int &n) {
 		// Every Substring of length 1 is palindrome.
 		for(int i = 0; i < n; ++i)
