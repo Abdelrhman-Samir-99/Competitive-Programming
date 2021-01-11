@@ -30,10 +30,10 @@ Should be a reference to me and show how i write code and what i know about DS &
     + [Using kruskal.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Graphs/Minimum%20Spanning%20Tree)
     + Using Prim.
 + [Sub-tree sum.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Graphs/Sub-Tree%20Sum)
-+ [Topological sorting.]()
++ Topological sorting.
     + [Using pre-order traverse.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Topological%20Sorting/dp_preOrder.cpp)
     + [Using DFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Topological%20Sorting/Topologica%20Sorting_v1.cpp)
-+ [Traversing algroithms.]()
++ Traversing algroithms.
     + [DFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/dfs.cpp)
     + [BFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/bfs.cpp)
     + Pre-order
@@ -61,3 +61,5 @@ Should be a reference to me and show how i write code and what i know about DS &
     + [Single hash.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Rabin-Karp/Rabin-Karp_Single-Hash.cpp)
     + [Double hash.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Rabin-Karp/Rabin-Karp_Double-Hash.cpp)
 + [Z-Function.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Z-Function/Z-Funciton.cpp)
++ KMP.
++ Suffix array.
