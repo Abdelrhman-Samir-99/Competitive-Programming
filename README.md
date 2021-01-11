@@ -1,5 +1,5 @@
 # Competitive-Programming
-Should be a reference to me and show i write code and what i know about DS &amp; Algorithms.
+Should be a reference to me and show how i write code and what i know about DS &amp; Algorithms.
 <br /> <br />
 
 
