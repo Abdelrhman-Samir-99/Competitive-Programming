@@ -24,7 +24,9 @@ class List {
 			tail = NULL;
 			Lenght = 0;
 		}
-		
+		~List() {
+			clear();
+		}
 		void add(int Data) {
 			// the new node.
 			node* new_node = new node;

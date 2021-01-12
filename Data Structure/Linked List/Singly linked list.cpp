@@ -23,7 +23,9 @@ class List {
 			tail = NULL;
 			Length = 0;
 		}
-		
+		~List() {
+			clear();
+		}
 		void add(int Data) {
 			// Creating a new node.
 			node* new_node = new node;
