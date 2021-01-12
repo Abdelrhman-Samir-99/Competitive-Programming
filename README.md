@@ -16,8 +16,8 @@ Should be a reference to me and show how i write code and what i know about DS &
 + [MO's Algorithm.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/MO's%20Algorithm/MO's%20Algorithm.cpp)
 + [Segment Tree.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Segment%20Tree/Segment%20Tree.cpp)
 + [Sparse Table.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Sparse%20Table/Sparse%20Table.cpp)
-+ Linked list
-    + Single.
++ Linked List
+    + [Singly.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Linked%20List/Singly%20linked%20list.cpp)
     + Doubly.
 
 # Graphs
