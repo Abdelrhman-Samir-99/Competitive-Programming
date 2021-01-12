@@ -154,37 +154,3 @@ class List {
 			}
 		}
 };
-
-int main() {
-	int n;
-	scanf("%d", &n);
-	List my_list;
-	for(int i = 1; i <= n; ++i) {
-		int x;
-		scanf("%d", &x);
-		my_list.add(x);
-	}
-	int q;
-	scanf("%d", &q);
-	while(q--) {
-		int op;
-		scanf("%d", &op); // 1 for add 2 for insert 3 for delete
-		if(op == 1) {
-			int v;
-			scanf("%d", &v);
-			my_list.add(v);
-		}
-		else if(op == 2) {
-			int v, p;
-			scanf("%d %d", &v, &p);
-			my_list.insert(v, p);
-		}
-		else if(op == 3) {
-			int v, c;
-			scanf("%d %d", &v, &c);
-			my_list.erase(v, c);
-		}
-		my_list.print();
-	}
-	my_list.clear();
-}

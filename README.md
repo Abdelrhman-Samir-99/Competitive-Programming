@@ -22,14 +22,14 @@ Should be a reference to me and show how i write code and what i know about DS &
 
 # Graphs
 + Dijkstra
-    + [Operator over-loading.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Graphs/Dijkstra)
-+ [Floyd Warshall.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Graphs/Floyd%20Warshall)
+    + [Operator over-loading.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Dijkstra/Dijkstra.cpp)
++ [Floyd Warshall.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Floyd%20Warshall/Floyd%20Warshall.cpp)
 + Lowest Common Ancestor (LCA)
-    + [Using binary lifting.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Graphs/LCA)
+    + [Using binary lifting.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/LCA/Binary%20Lifting.cpp)
 + Minimum Spanning Tree (MST)
-    + [Using kruskal.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Graphs/Minimum%20Spanning%20Tree)
+    + [Using kruskal.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Minimum%20Spanning%20Tree/Minimum%20Spanning%20Tree.cpp)
     + Using Prim.
-+ [Sub-tree sum.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Graphs/Sub-Tree%20Sum)
++ [Sub-tree sum.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Sub-Tree%20Sum/Sub-Tree%20Sum.cpp)
 + Topological sorting.
     + [Using pre-order traverse.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Topological%20Sorting/dp_preOrder.cpp)
     + [Using DFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Topological%20Sorting/Topologica%20Sorting_v1.cpp)

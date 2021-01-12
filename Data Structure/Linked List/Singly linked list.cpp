@@ -24,7 +24,7 @@ class List {
 			Length = 0;
 		}
 		
-		void add_Node(int Data) {
+		void add(int Data) {
 			// Creating a new node.
 			node* new_node = new node;
 			new_node-> next = NULL; // making it point to null cause this is our last current node.
@@ -44,7 +44,7 @@ class List {
 			++Length;
 		}
 
-		void delete_Node(int Data, int count) {
+		void erase(int Data, int count = 1) {
 			// IFF count < 0 that's mean a negative number, which makes no sense.
 			assert(count >= 0);
 			current = head;
@@ -84,7 +84,7 @@ class List {
 				tail = NULL;
 		}
 
-		void insert_Node(int Data, int position) {
+		void insert(int Data, int position) {
 
 			assert(position >= 0); // assertion when we insert a negative index.
 			int current_pos = 0;
@@ -116,7 +116,7 @@ class List {
 			++Length;
 		}
 		
-		void Printing() {
+		void print() {
 			current = head;
 			while(current != NULL) {
 				printf("%d ", current-> data);
@@ -125,7 +125,7 @@ class List {
 			puts("");
 		}
 
-		void delete_All() {
+		void clear() {
 			// Deleting the whole list since there's no garbage collector in C++.
 			current = head;
 			while(current != NULL) {
