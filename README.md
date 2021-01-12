@@ -18,7 +18,7 @@ Should be a reference to me and show how i write code and what i know about DS &
 + [Sparse Table.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Sparse%20Table/Sparse%20Table.cpp)
 + Linked List
     + [Singly.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Linked%20List/Singly%20linked%20list.cpp)
-    + Doubly.
+    + [Doubly.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Linked%20List/Doubly%20linked%20list.cpp)
 
 # Graphs
 + Dijkstra
