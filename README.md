@@ -41,7 +41,7 @@ Should be a reference to me and show how i write code and what i know about DS &
     + in-order
 + Trees
     + Binary tree.
-    + Binary search tree.
+    + [Binary search tree (add, remove, lower & upper bound, find, all kind of tree traverse).](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Trees/Binary%20Search%20Tree/BST.cpp)
 + Others
     + [Cycle detection in directed graph.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Cycle%20Detection%20-%20Directed%20Graphs.cpp)
     + [Tree diameter.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Tree%20Diameter.cpp)
