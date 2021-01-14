@@ -46,9 +46,9 @@ Should be a reference to me and show how i write code and what i know about DS &
 + Others
     + [Cycle detection in directed graph.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Cycle%20Detection%20-%20Directed%20Graphs.cpp)
     + [Tree diameter.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Tree%20Diameter.cpp)
-    + Bipartite Test.
-	+ Using DFS.
-	+ Using BFS.
+    + Bipartite Test
+        + Using DFS.
+        + Using BFS.
 
 # Number theory & Math
 + Fast power
