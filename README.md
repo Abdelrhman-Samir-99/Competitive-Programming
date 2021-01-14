@@ -16,14 +16,14 @@ Should be a reference to me and show how i write code and what i know about DS &
 + [MO's Algorithm.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/MO's%20Algorithm/MO's%20Algorithm.cpp)
 + [Segment Tree.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Segment%20Tree/Segment%20Tree.cpp)
 + [Sparse Table.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Sparse%20Table/Sparse%20Table.cpp)
-+ [Unbalanced Binary Search Tree (add, erase, find, lower & upper bound, get_Root).]()
-+ [AVL Tree.]()
++ [Unbalanced Binary Search Tree (add, erase, find, lower & upper bound, get_Root).](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Binary%20Search%20Tree/Binary%20Search%20Tree.cpp)
++ [AVL Tree.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/AVL%20Tree/AVL%20tree.cpp)
 + Linked List
     + [Singly.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Linked%20List/Singly%20linked%20list.cpp)
     + [Doubly.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Linked%20List/Doubly%20linked%20list.cpp)
 + Heap
-    + [Min Heap.]()
-    + [Max Heap.]()
+    + [Min Heap.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Heap/Min%20heap.cpp)
+    + [Max Heap.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Heap/Max%20heap.cpp)
 
 # Graphs
 + Dijkstra
@@ -36,17 +36,19 @@ Should be a reference to me and show how i write code and what i know about DS &
     + Using Prim.
 + [Sub-tree sum.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Sub-Tree%20Sum/Sub-Tree%20Sum.cpp)
 + Traversing algroithms.
-    + [DFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/dfs.cpp)
-    + [BFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/bfs.cpp)
     + Eulerian tour.
     + Post-order.
-    + In-order.
     + Pre-order.
-    + in-orde.
+    + In-order. 
+    + [DFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/dfs.cpp)
+    + [BFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/bfs.cpp)
+    
 + Others
     + [Cycle detection in directed graph.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Cycle%20Detection%20-%20Directed%20Graphs.cpp)
     + [Tree diameter.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Tree%20Diameter.cpp)
     + Bipartite Test.
+	+ Using DFS.
+	+ Using BFS.
 
 # Number theory & Math
 + Fast power
@@ -57,7 +59,7 @@ Should be a reference to me and show how i write code and what i know about DS &
     + [Normal way.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Normal%20Way.cpp)
     + [Sieve eratosthenes.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Sieve%20Divisors.cpp)
     + [Sieve eratosthenes factorization.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Sieve%20Factorization.cpp)
-    + Greates Common Divisor (GCD).
++ Greates Common Divisor (GCD).
 # Strings
 + Rabin-Karp
     + [Single hash.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Rabin-Karp/Rabin-Karp_Single-Hash.cpp)
@@ -68,12 +70,12 @@ Should be a reference to me and show how i write code and what i know about DS &
 
 # Sorting
 + Topological Sorting.
-+ Merge sort.
-+ Count sort.
-+ Quick sort.
-+ Heap sort.
++ [Count sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Count%20Sort/Count%20Sort.cpp)
++ [Quick sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Quick%20Sort)
++ [Merge sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Merge%20Sort)
++ [Heap sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Heap%20Sort)
 
 # Searching
-+ Sequential search.
++ [Sequential search.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Searching/Sequential%20Search)
 + Ternary search.
-+ Binary search.
++ [Binary search.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Searching/Binary%20Search)
