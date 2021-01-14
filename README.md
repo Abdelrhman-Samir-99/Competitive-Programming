@@ -16,9 +16,14 @@ Should be a reference to me and show how i write code and what i know about DS &
 + [MO's Algorithm.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/MO's%20Algorithm/MO's%20Algorithm.cpp)
 + [Segment Tree.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Segment%20Tree/Segment%20Tree.cpp)
 + [Sparse Table.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Sparse%20Table/Sparse%20Table.cpp)
++ [Unbalanced Binary Search Tree (add, erase, find, lower & upper bound, get_Root).]()
++ [AVL Tree.]()
 + Linked List
     + [Singly.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Linked%20List/Singly%20linked%20list.cpp)
     + [Doubly.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Linked%20List/Doubly%20linked%20list.cpp)
++ Heap
+    + [Min Heap.]()
+    + [Max Heap.]()
 
 # Graphs
 + Dijkstra
@@ -30,21 +35,18 @@ Should be a reference to me and show how i write code and what i know about DS &
     + [Using kruskal.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Minimum%20Spanning%20Tree/Minimum%20Spanning%20Tree.cpp)
     + Using Prim.
 + [Sub-tree sum.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Sub-Tree%20Sum/Sub-Tree%20Sum.cpp)
-+ Topological sorting.
-    + [Using pre-order traverse.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Topological%20Sorting/dp_preOrder.cpp)
-    + [Using DFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Topological%20Sorting/Topologica%20Sorting_v1.cpp)
 + Traversing algroithms.
     + [DFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/dfs.cpp)
     + [BFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/bfs.cpp)
-    + Pre-order
-    + Post-order
-    + in-order
-+ Trees
-    + Binary tree.
-    + [Binary search tree (add, remove, lower & upper bound, find, all kind of tree traverse).](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Trees/Binary%20Search%20Tree/Binary%20Search%20Tree.cpp)
+    + Eulerian tour.
+    + Post-order.
+    + In-order.
+    + Pre-order.
+    + in-orde.
 + Others
     + [Cycle detection in directed graph.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Cycle%20Detection%20-%20Directed%20Graphs.cpp)
     + [Tree diameter.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Tree%20Diameter.cpp)
+    + Bipartite Test.
 
 # Number theory & Math
 + Fast power
@@ -55,7 +57,7 @@ Should be a reference to me and show how i write code and what i know about DS &
     + [Normal way.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Normal%20Way.cpp)
     + [Sieve eratosthenes.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Sieve%20Divisors.cpp)
     + [Sieve eratosthenes factorization.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Sieve%20Factorization.cpp)
-
+    + Greates Common Divisor (GCD).
 # Strings
 + Rabin-Karp
     + [Single hash.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Rabin-Karp/Rabin-Karp_Single-Hash.cpp)
@@ -65,6 +67,7 @@ Should be a reference to me and show how i write code and what i know about DS &
 + Suffix array.
 
 # Sorting
++ Topological Sorting.
 + Merge sort.
 + Count sort.
 + Quick sort.
