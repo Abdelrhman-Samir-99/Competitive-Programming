@@ -1,14 +1,13 @@
 ## Competitive-Programming ##
 #### This is a C++ library for me mainly, also should show what i am familiar to and understand. ####
-<br /> <br />
----
+
 ## Dynamic Programming ##
 + [2D prefix sum.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/2D%20Prefix-Sum/2D%20Prefix-Sum.cpp)
 + [#Palindrome substrings in a string.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/Palindrome%20Substrings/Palindrome%20Substring.cpp) 
 + Longest increasing sub-sequence
     + [Using segment tree + DP.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/LIS/LIS%20with%20segment%20tree.cpp)
     + [Using binary search.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/LIS/LIS2.cpp)
----
+
 ## Data Structure
 + [Disjoint & Union set.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Disjoint%20%26%20Union%20set/Disjoint%20%26%20Union%20set.cpp)
 + [Fenwick Tree.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Fenwick%20Tree/Fenwick%20Tree.cpp)
@@ -23,7 +22,7 @@
 + Heap
     + [Min Heap.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Heap/Min%20heap.cpp)
     + [Max Heap.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Heap/Max%20heap.cpp)
----
+
 ## Graphs
 + Dijkstra
     + [Operator over-loading.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Dijkstra/Dijkstra.cpp)
@@ -47,7 +46,7 @@
     + Bipartite Test
         + Using DFS.
         + Using BFS.
----
+
 ## Number theory & Math
 + Fast power
     + [Iterative.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/fast_Power/fast_power_iterative.cpp)
@@ -58,7 +57,7 @@
     + [Sieve eratosthenes.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Sieve%20Divisors.cpp)
     + [Sieve eratosthenes factorization.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Sieve%20Factorization.cpp)
 + Greates Common Divisor (GCD).
----
+
 ## Strings
 + Rabin-Karp
     + [Single hash.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Rabin-Karp/Rabin-Karp_Single-Hash.cpp)
@@ -66,14 +65,14 @@
 + [Z-Function.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Z-Function/Z-Funciton.cpp)
 + KMP.
 + Suffix array.
----
+
 ## Sorting
 + Topological Sorting.
 + [Count sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Count%20Sort/Count%20Sort.cpp)
 + [Quick sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Quick%20Sort)
 + [Merge sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Merge%20Sort)
 + [Heap sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Heap%20Sort)
----
+
 ## Searching
 + [Sequential search.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Searching/Sequential%20Search)
 + Ternary search.
