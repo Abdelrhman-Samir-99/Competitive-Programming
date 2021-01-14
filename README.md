@@ -1,8 +1,8 @@
-## Competitive-Programming
-<p>This is a C++ library for me mainly, also should show what i am familiar to and understand.</p>
+## Competitive-Programming ##
+#### This is a C++ library for me mainly, also should show what i am familiar to and understand. ####
 <br /> <br />
 ---
-## Dynamic Programming
+## Dynamic Programming ##
 + [2D prefix sum.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/2D%20Prefix-Sum/2D%20Prefix-Sum.cpp)
 + [#Palindrome substrings in a string.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/Palindrome%20Substrings/Palindrome%20Substring.cpp) 
 + Longest increasing sub-sequence
@@ -78,3 +78,4 @@
 + [Sequential search.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Searching/Sequential%20Search)
 + Ternary search.
 + [Binary search.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Searching/Binary%20Search)
+
