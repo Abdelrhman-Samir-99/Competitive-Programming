@@ -1,15 +1,15 @@
 ## Competitive-Programming
-This is a C++ library for me mainly, also should show what i am familiar to and understand.
+<p>This is a C++ library for me mainly, also should show what i am familiar to and understand.</p>
 <br /> <br />
 ---
-### Dynamic Programming
+## Dynamic Programming
 + [2D prefix sum.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/2D%20Prefix-Sum/2D%20Prefix-Sum.cpp)
 + [#Palindrome substrings in a string.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/Palindrome%20Substrings/Palindrome%20Substring.cpp) 
 + Longest increasing sub-sequence
     + [Using segment tree + DP.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/LIS/LIS%20with%20segment%20tree.cpp)
     + [Using binary search.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/LIS/LIS2.cpp)
 ---
-### Data Structure
+## Data Structure
 + [Disjoint & Union set.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Disjoint%20%26%20Union%20set/Disjoint%20%26%20Union%20set.cpp)
 + [Fenwick Tree.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Fenwick%20Tree/Fenwick%20Tree.cpp)
 + [MO's Algorithm.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/MO's%20Algorithm/MO's%20Algorithm.cpp)
@@ -24,7 +24,7 @@ This is a C++ library for me mainly, also should show what i am familiar to and 
     + [Min Heap.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Heap/Min%20heap.cpp)
     + [Max Heap.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Heap/Max%20heap.cpp)
 ---
-### Graphs
+## Graphs
 + Dijkstra
     + [Operator over-loading.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Dijkstra/Dijkstra.cpp)
 + [Floyd Warshall.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Floyd%20Warshall/Floyd%20Warshall.cpp)
@@ -48,7 +48,7 @@ This is a C++ library for me mainly, also should show what i am familiar to and 
         + Using DFS.
         + Using BFS.
 ---
-### Number theory & Math
+## Number theory & Math
 + Fast power
     + [Iterative.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/fast_Power/fast_power_iterative.cpp)
     + [Recursive.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/fast_Power/fast_power_Rrecursive.cpp)
@@ -59,7 +59,7 @@ This is a C++ library for me mainly, also should show what i am familiar to and 
     + [Sieve eratosthenes factorization.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Sieve%20Factorization.cpp)
 + Greates Common Divisor (GCD).
 ---
-# Strings
+## Strings
 + Rabin-Karp
     + [Single hash.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Rabin-Karp/Rabin-Karp_Single-Hash.cpp)
     + [Double hash.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Rabin-Karp/Rabin-Karp_Double-Hash.cpp)
@@ -67,14 +67,14 @@ This is a C++ library for me mainly, also should show what i am familiar to and 
 + KMP.
 + Suffix array.
 ---
-### Sorting
+## Sorting
 + Topological Sorting.
 + [Count sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Count%20Sort/Count%20Sort.cpp)
 + [Quick sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Quick%20Sort)
 + [Merge sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Merge%20Sort)
 + [Heap sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Heap%20Sort)
 ---
-### Searching
+## Searching
 + [Sequential search.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Searching/Sequential%20Search)
 + Ternary search.
 + [Binary search.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Searching/Binary%20Search)
