@@ -41,7 +41,7 @@ Should be a reference to me and show how i write code and what i know about DS &
     + in-order
 + Trees
     + Binary tree.
-    + [Binary search tree (add, remove, lower & upper bound, find, all kind of tree traverse).](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Trees/Binary%20Search%20Tree/BST.cpp)
+    + [Binary search tree (add, remove, lower & upper bound, find, all kind of tree traverse).](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Trees/Binary%20Search%20Tree/Binary%20Search%20Tree.cpp)
 + Others
     + [Cycle detection in directed graph.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Cycle%20Detection%20-%20Directed%20Graphs.cpp)
     + [Tree diameter.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Tree%20Diameter.cpp)
@@ -63,3 +63,14 @@ Should be a reference to me and show how i write code and what i know about DS &
 + [Z-Function.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Z-Function/Z-Funciton.cpp)
 + KMP.
 + Suffix array.
+
+# Sorting
++ Merge sort.
++ Count sort.
++ Quick sort.
++ Heap sort.
+
+# Searching
++ Sequential search.
++ Ternary search.
++ Binary search.
