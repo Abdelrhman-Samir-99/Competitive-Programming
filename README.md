@@ -1,4 +1,4 @@
-## Competitive-Programming ##
+# Competitive-Programming ##
 #### This is a C++ library for me mainly, also should show what i am familiar to and understand. ####
 
 ## Dynamic Programming ##
