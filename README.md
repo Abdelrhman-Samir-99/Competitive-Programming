@@ -71,7 +71,7 @@
 + [Count sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Count%20Sort/Count%20Sort.cpp)
 + [Quick sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Quick%20Sort)
 + [Merge sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Merge%20Sort)
-+ [Heap sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Heap%20Sort)
++ [Heap sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Heap%20Sort/Heap%20Sort.cpp)
 
 ## Searching
 + [Sequential search.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Searching/Sequential%20Search)
