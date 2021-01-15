@@ -28,17 +28,18 @@
     + [Operator over-loading.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Dijkstra/Dijkstra.cpp)
 + [Floyd Warshall.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Floyd%20Warshall/Floyd%20Warshall.cpp)
 + [Bellman Ford.]()
-+ Lowest Common Ancestor (LCA)
-    + [Using binary lifting.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/LCA/Binary%20Lifting.cpp)
 + Minimum Spanning Tree (MST)
     + [Using kruskal.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Minimum%20Spanning%20Tree/Minimum%20Spanning%20Tree.cpp)
     + Using Prim.
++ Lowest Common Ancestor (LCA)
+    + [Using binary lifting.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/LCA/Binary%20Lifting.cpp)
+    + Using RMQ.
 + [Sub-tree sum.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Sub-Tree%20Sum/Sub-Tree%20Sum.cpp)
 + Traversing algroithms.
-    + Eulerian tour.
-    + Post-order.
-    + Pre-order.
-    + In-order. 
+    + [Eulerian tour.]()
+    + [Post-order.]()
+    + [Pre-order.]()
+    + [In-order.]() 
     + [DFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/dfs.cpp)
     + [BFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/bfs.cpp) 
 + Others
