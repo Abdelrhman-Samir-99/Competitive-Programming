@@ -69,12 +69,12 @@
 ## Sorting
 + Topological Sorting.
 + [Count sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Count%20Sort/Count%20Sort.cpp)
-+ [Quick sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Quick%20Sort)
-+ [Merge sort.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Sorting/Merge%20Sort)
++ [Quick sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Quick%20Sort/Quick%20Sort.cpp)
++ [Merge sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Merge%20Sort/Merge%20Sort.cpp)
 + [Heap sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Heap%20Sort/Heap%20Sort.cpp)
 
 ## Searching
-+ [Sequential search.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Searching/Sequential%20Search)
++ [Sequential search.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Searching/Sequential%20Search/Sequential%20Search.cpp)
 + Ternary search.
-+ [Binary search.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Searching/Binary%20Search)
++ [Binary search.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Searching/Binary%20Search/Binary%20Search.cpp)
 
