@@ -7,6 +7,7 @@
 + Longest increasing sub-sequence
     + [Using segment tree + DP.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/LIS/LIS%20with%20segment%20tree.cpp)
     + [Using binary search.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/LIS/LIS2.cpp)
++ Longest common sub-sequence.
 
 ## Data Structure
 + [Disjoint & Union set.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Disjoint%20%26%20Union%20set/Disjoint%20%26%20Union%20set.cpp)
@@ -60,6 +61,8 @@
     + [Sieve eratosthenes.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Sieve%20Divisors.cpp)
     + [Sieve eratosthenes factorization.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Sieve%20Factorization.cpp)
 + Greates Common Divisor (GCD).
++ Least Common multiple (LCM).
++ Modular Inverse.
 
 ## Strings
 + Rabin-Karp
@@ -77,6 +80,8 @@
 + [Quick sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Quick%20Sort/Quick%20Sort.cpp)
 + [Merge sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Merge%20Sort/Merge%20Sort.cpp)
 + [Heap sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Heap%20Sort/Heap%20Sort.cpp)
++ Index sort.
++ Radix sort.
 
 ## Searching
 + [Sequential search.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Searching/Sequential%20Search/Sequential%20Search.cpp)
