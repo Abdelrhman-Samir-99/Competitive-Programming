@@ -27,6 +27,7 @@
 + Dijkstra
     + [Operator over-loading.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Dijkstra/Dijkstra.cpp)
 + [Floyd Warshall.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Floyd%20Warshall/Floyd%20Warshall.cpp)
++ [Bellman Ford.]()
 + Lowest Common Ancestor (LCA)
     + [Using binary lifting.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/LCA/Binary%20Lifting.cpp)
 + Minimum Spanning Tree (MST)
@@ -68,6 +69,8 @@
 
 ## Sorting
 + Topological Sorting.
+    + [Kahn's algorithm.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Topological%20Sorting/Kahn's%20Algorithm.cpp)
+    + [Using DFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Topological%20Sorting/Using%20DFS.cpp	)
 + [Count sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Count%20Sort/Count%20Sort.cpp)
 + [Quick sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Quick%20Sort/Quick%20Sort.cpp)
 + [Merge sort.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Sorting/Merge%20Sort/Merge%20Sort.cpp)
