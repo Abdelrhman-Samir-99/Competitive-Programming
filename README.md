@@ -22,6 +22,7 @@
 + Heap
     + [Min Heap.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Heap/Min%20heap.cpp)
     + [Max Heap.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Heap/Max%20heap.cpp)
++ [Trie.]()
 
 ## Graphs
 + Dijkstra
