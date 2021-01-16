@@ -38,10 +38,10 @@
     + Using RMQ.
 + [Sub-tree sum.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Sub-Tree%20Sum/Sub-Tree%20Sum.cpp)
 + Traversing algroithms.
-    + [Eulerian tour.]()
-    + [Post-order.]()
-    + [Pre-order.]()
-    + [In-order.]() 
+    + [Eulerian tour.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/Eulerian%20tour.cpp)
+    + [Post-order.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/Post-order.cpp)
+    + [Pre-order.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/Pre-order.cpp)
+    + [In-order.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/In-order.cpp) 
     + [DFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/dfs.cpp)
     + [BFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/bfs.cpp) 
 + Others
