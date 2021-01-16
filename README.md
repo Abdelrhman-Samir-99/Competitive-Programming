@@ -48,8 +48,8 @@
     + [Cycle detection in directed graph.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Cycle%20Detection%20-%20Directed%20Graphs.cpp)
     + [Tree diameter.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Tree%20Diameter.cpp)
     + Bipartite Test
-        + Using DFS.
-        + Using BFS.
+        + [Using DFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Bipartite%20using%20DFS.cpp)
+        + [Using BFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Bipartite%20using%20BFS.cpp)
 
 ## Number theory & Math
 + Fast power
