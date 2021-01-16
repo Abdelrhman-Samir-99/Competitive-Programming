@@ -58,6 +58,11 @@ class Trie {
 			}
 		}
 
+		void erase() {
+			// based on the problem statement and how / what we are going to erase.
+			// but in general we can erase the node and link it to it's children.
+		}
+
 		bool find(string prefix) {
 			node* parent_pointer = root;
 			// Starting from the root and following the path until we reach to the end of a prefix or NULL.
