@@ -24,6 +24,7 @@ void bfs(int start) {
 		for(int &child : g[node]) {
 			if(dis[child] == -1) {
 				dis[child] = dis[node] + 1;
+				par[child] = node;
 				q.push(child);
 			}
 		}
