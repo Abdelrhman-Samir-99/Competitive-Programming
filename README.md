@@ -2,11 +2,11 @@
 #### This is a C++ library for me mainly, also should show what i am familiar to and understand. ####
 
 ## Dynamic Programming ##
-+ [2D prefix sum.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/2D%20Prefix-Sum/2D%20Prefix-Sum.cpp)
-+ [#Palindrome substrings in a string.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/Palindrome%20Substrings/Palindrome%20Substring.cpp) 
++ [2D prefix sum.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Dynamic%20Programming/2D%20Prefix-Sum/2D%20Prefix-Sum.cpp)
++ [#Palindrome substrings in a string.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Dynamic%20Programming/Palindrome%20Substrings/Palindrome%20Substring.cpp) 
 + Longest increasing sub-sequence (LIS)
-    + [Using segment tree + DP.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/LIS/LIS%20with%20segment%20tree.cpp)
-    + [Using binary search.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/LIS/LIS2.cpp)
+    + [Using segment tree + DP.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Dynamic%20Programming/LIS/LIS%20with%20segment%20tree.cpp)
+    + [Using binary search.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Dynamic%20Programming/LIS/LIS2.cpp)
 + Longest common sub-sequence (LCS).
 + Knapsack.
 + Digit DP.
