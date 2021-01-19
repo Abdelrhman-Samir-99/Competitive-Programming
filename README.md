@@ -4,10 +4,12 @@
 ## Dynamic Programming ##
 + [2D prefix sum.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/2D%20Prefix-Sum/2D%20Prefix-Sum.cpp)
 + [#Palindrome substrings in a string.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/Palindrome%20Substrings/Palindrome%20Substring.cpp) 
-+ Longest increasing sub-sequence
++ Longest increasing sub-sequence (LIS)
     + [Using segment tree + DP.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/LIS/LIS%20with%20segment%20tree.cpp)
     + [Using binary search.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/DP/LIS/LIS2.cpp)
-+ Longest common sub-sequence.
++ Longest common sub-sequence (LCS).
++ Knapsack.
++ Digit DP.
 
 ## Data Structure
 + [Disjoint & Union set.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Disjoint%20%26%20Union%20set/Disjoint%20%26%20Union%20set.cpp)
@@ -26,14 +28,14 @@
 + Trie
     + [Using dynamic memory allocation.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Trie/Dynamic%20memory%20allocation.cpp)
     + [Using static memory allocation.]()
-+ [Hash Table.]()
++ Hash Table.
 
 
 ## Graphs
 + Dijkstra
     + [Operator over-loading.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Dijkstra/Dijkstra.cpp)
 + [Floyd Warshall.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Floyd%20Warshall/Floyd%20Warshall.cpp)
-+ [Bellman Ford.]()
++ Bellman Ford.
 + Minimum Spanning Tree (MST)
     + [Using kruskal.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Minimum%20Spanning%20Tree/Minimum%20Spanning%20Tree.cpp)
     + Using Prim.
