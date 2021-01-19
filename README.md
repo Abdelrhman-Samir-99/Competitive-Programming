@@ -23,8 +23,10 @@
 + Heap
     + [Min Heap.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Heap/Min%20heap.cpp)
     + [Max Heap.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Heap/Max%20heap.cpp)
-+ [Hash Table.]
-+ [Trie.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Trie/Trie.cpp)
++ Trie
+    + [Using dynamic memory allocation.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Trie/Trie.cpp)
+    + [Using static memory allocation.]()
++ [Hash Table.]()
 
 
 ## Graphs
