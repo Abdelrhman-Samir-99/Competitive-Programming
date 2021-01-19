@@ -23,7 +23,9 @@
 + Heap
     + [Min Heap.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Heap/Min%20heap.cpp)
     + [Max Heap.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Heap/Max%20heap.cpp)
++ [Hash Table.]
 + [Trie.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Trie/Trie.cpp)
+
 
 ## Graphs
 + Dijkstra
@@ -69,8 +71,8 @@
     + [Single hash.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Rabin-Karp/Rabin-Karp_Single-Hash.cpp)
     + [Double hash.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Rabin-Karp/Rabin-Karp_Double-Hash.cpp)
 + [Z-Function.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Z-Function/Z-Funciton.cpp)
-+ KMP.
 + Suffix array.
++ KMP.
 
 ## Sorting
 + Topological Sorting.
