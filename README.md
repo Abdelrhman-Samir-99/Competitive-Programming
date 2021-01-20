@@ -76,7 +76,7 @@
     + [Double hash.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Rabin-Karp/Rabin-Karp_Double-Hash.cpp)
 + [Z-Function.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/Z-Function/Z-Funciton.cpp)
 + Suffix array.
-+ KMP.
++ [KMP.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Strings/KMP/KMP.cpp)
 
 ## Sorting
 + Topological Sorting.
