@@ -2,11 +2,12 @@
 #include <assert.h>
 using namespace std;
 
+template <class T>
 class List {
 	
 	private:
 		struct node {
-			int data;
+			T data;
 			node* next;
 		};
 		
@@ -17,6 +18,7 @@ class List {
 		
 	public:
 		int Length;
+		
 		List() {
 			current = NULL;
 			head = NULL;
@@ -26,7 +28,7 @@ class List {
 		~List() {
 			clear();
 		}
-		void add(int Data) {
+		void add(T Data) {
 			// Creating a new node.
 			node* new_node = new node;
 			new_node-> next = NULL; // making it point to null cause this is our last current node.
@@ -46,7 +48,7 @@ class List {
 			++Length;
 		}
 
-		void erase(int Data, int count = 1) {
+		void erase(T Data, int count = 1) {
 			// IFF count < 0 that's mean a negative number, which makes no sense.
 			assert(count >= 0);
 			current = head;
@@ -86,7 +88,7 @@ class List {
 				tail = NULL;
 		}
 
-		void insert(int Data, int position) {
+		void insert(T Data, int position) {
 
 			assert(position >= 0); // assertion when we insert a negative index.
 			int current_pos = 0;
@@ -121,7 +123,7 @@ class List {
 		void print() {
 			current = head;
 			while(current != NULL) {
-				printf("%d ", current-> data);
+				cout << current-> data << " ";
 				current = current-> next;
 			}
 			puts("");

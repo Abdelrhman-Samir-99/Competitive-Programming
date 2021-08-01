@@ -2,12 +2,12 @@
 #include <assert.h>
 using namespace std;
 
-
+template <class T>
 class List {
 
 	private:
 		struct node {
-			int data;
+			T data;
 			node* next;
 			node* prev;
 		};
@@ -27,7 +27,7 @@ class List {
 		~List() {
 			clear();
 		}
-		void add(int Data) {
+		void add(T Data) {
 			// the new node.
 			node* new_node = new node;
 			new_node-> data = Data;
@@ -48,7 +48,7 @@ class List {
 			++Lenght;
 		}
 
-		void insert(int Data, int index) {
+		void insert(T Data, int index) {
 			current = head;
 			int current_pos = 0;
 			while(current != NULL && current_pos != index) {
@@ -83,7 +83,7 @@ class List {
 			++Lenght;
 		}
 		
-		void erase(int Data, int count = 1) {
+		void erase(T Data, int count = 1) {
 			// if the count is a negative number then makes no sense.
 			assert(count >= 0);
 			current = head;
@@ -141,7 +141,7 @@ class List {
 		void print() {
 			current = head;
 			while(current != NULL) {
-				printf("%d ", current-> data);
+				cout << current-> data << " ";
 				current = current-> next;
 			}
 			puts("");

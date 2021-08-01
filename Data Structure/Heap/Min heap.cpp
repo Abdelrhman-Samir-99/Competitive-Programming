@@ -3,9 +3,12 @@
 #include <vector>
 using namespace std;
 
+template <class T>
 class min_Heap {
+
 	private:
-		vector <int> heap;
+
+		vector <T> heap;
 		
 		int parent(int index) { return (index - 1) / 2;}
 		int left_Child(int index) { return index * 2 + 1;}
@@ -15,9 +18,9 @@ class min_Heap {
 		bool has_Right(int index) { return int(heap.size()) > right_Child(index);}
 		bool has_Parent(int index) { return index != 0;}
 
-		int get_Left(int index) { return heap[left_Child(index)];}
-		int get_Right(int index) { return heap[right_Child(index)];}
-		int get_Parent(int index) { return heap[parent(index)];}
+		T get_Left(int index) { return heap[left_Child(index)];}
+		T get_Right(int index) { return heap[right_Child(index)];}
+		T get_Parent(int index) { return heap[parent(index)];}
 		
 		void build(vector <int> &Items) {
 			heap = Items;
@@ -67,12 +70,12 @@ class min_Heap {
 		bool empty() { return int(heap.size()) == 0;}
 		int size() { return int(heap.size());}
 
-		int peek() {
+		T peek() {
 			assert(this-> empty() == false);
 			return heap[0];
 		}
 		
-		int pop() {
+		T pop() {
 			assert(this-> empty() == false);
 			int ret = heap[0];
 			if(this-> size() == 1) {
@@ -89,3 +92,4 @@ class min_Heap {
 			shiftUp(this-> size() - 1);
 		}
 };
+

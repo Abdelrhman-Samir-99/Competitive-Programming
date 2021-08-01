@@ -4,24 +4,25 @@
 using namespace std;
 
 
-
+template <class T>
 class BST {
+	
 	private:
 		struct node {
 			node* right;
 			node* left;
-			int key;
+			T key;
 		};
 		
 		node* root;
 		vector <node*> track_nodes; // Can not find anything else for now, it's purpose -> pervent memory lekage exception.
 
-		void add_function(int key, node* &current_node) {
+		void add_function(T key, node* &current_node) {
 			if(current_node == NULL) {
 				current_node = create_Leaf(key);
 				return;
 			}
-			int current_key = current_node-> key;
+			T current_key = current_node-> key;
 			if(key <= current_key)
 				add_function(key, current_node-> left);
 			else
@@ -33,11 +34,11 @@ class BST {
 			if(current_node == NULL)
 				return;
 			InOrder(current_node-> left);
-			printf("%d ", current_node-> key);
+			cout <<  current_node-> key << " ";
 			InOrder(current_node-> right);
 		}
 
-		node* dfs(int key, node* current_node) {
+		node* dfs(T key, node* current_node) {
 			if(current_node == NULL)
 				return NULL;
 			if(current_node-> key == key)
@@ -48,7 +49,7 @@ class BST {
 				return dfs(key, current_node-> left);
 		}
 
-		node* do_lower_bound(int key, node* current_node) {
+		node* do_lower_bound(T key, node* current_node) {
 
 			if(current_node == NULL)
 				return NULL;
@@ -62,7 +63,7 @@ class BST {
 			return do_lower_bound(key, current_node-> right);
 		}
 
-		node* do_upper_bound(int key, node* current_node) {
+		node* do_upper_bound(T key, node* current_node) {
 
 			if(current_node == NULL)
 				return NULL;
@@ -76,7 +77,7 @@ class BST {
 			return do_upper_bound(key, current_node-> right);
 		}
 
-		void do_erase(int key, node* current_node, node* my_parent, bool is_Left = false) {
+		void do_erase(T key, node* current_node, node* my_parent, bool is_Left = false) {
 
 			// is_Left -> to keep track if the current_node is left or right to the parent.
 			// we maintain my_parent to link the nodes after removal.
@@ -151,7 +152,7 @@ class BST {
 			clear();
 		}
 		
-		node* create_Leaf(int key) {
+		node* create_Leaf(T key) {
 			node* new_node = new node;
 			
 			new_node-> key = key;
@@ -161,7 +162,7 @@ class BST {
 			return new_node;
 		}
 
-		void add(int key) {
+		void add(T key) {
 			if(root == NULL) {
 				root = create_Leaf(key);
 			}
@@ -175,22 +176,22 @@ class BST {
 			InOrder(root);
 		}
 		
-		node* find(int key) {
+		node* find(T key) {
 			assert(root != NULL);
 			return dfs(key, root);
 		}
 		
-		node* lower_bound(int key) {
+		node* lower_bound(T key) {
 			assert(root != NULL);
 			return do_lower_bound(key, root);
 		}
 
-		node* upper_bound(int key) {
+		node* upper_bound(T key) {
 			assert(root != NULL);
 			return do_upper_bound(key, root);
 		}
 
-		void erase(int key) {
+		void erase(T key) {
 			assert(root != NULL);
 			do_erase(key, root, NULL);
 		}

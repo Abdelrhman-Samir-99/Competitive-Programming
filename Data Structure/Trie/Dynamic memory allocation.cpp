@@ -8,8 +8,7 @@ class Trie {
 	private:
 
 		struct node {
-			node* characters[26]; // Representing the chars available at this current node, or how this prefix
-			// can go further.
+			node* characters[26]; // Representing the chars available at this current node, or how this prefix can go further.
 			// you can store bunch of other stuff here, like if this is an end of a word or the count etc.
 		};
 		
