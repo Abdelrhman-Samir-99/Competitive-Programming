@@ -71,9 +71,9 @@
     + [Normal way.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Normal%20Way.cpp)
     + [Sieve eratosthenes.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Sieve%20Divisors.cpp)
     + [Sieve eratosthenes factorization.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Divisors/Sieve%20Factorization.cpp)
-+ Greates Common Divisor (GCD).
-+ Least Common multiple (LCM).
-+ Modular Inverse.
++ [Greates Common Divisor (GCD).](https://github.com/SmallCat3699/Competitive-Programming/blob/6f24be50530d84075559eb727dca5735c5ce08d1/Number%20Theory%20%26%20Math/Others/Mod_Inverse.cpp#L5)
++ [Least Common multiple (LCM).](https://github.com/SmallCat3699/Competitive-Programming/blob/6f24be50530d84075559eb727dca5735c5ce08d1/Number%20Theory%20%26%20Math/Others/Mod_Inverse.cpp#L11)
++ [Modular Inverse.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Number%20Theory%20%26%20Math/Others/Mod_Inverse.cpp)
 
 ## Strings
 + Rabin-Karp
