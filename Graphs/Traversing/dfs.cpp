@@ -7,12 +7,12 @@ vector <int> g[N];
 bool vis[N];
 
 void dfs(int node, int parent = -1) {
-	if(vis[node])
-		return;
-	vis[node] = true;
-	for(int &child : g[node]) {
-		if(child == parent)
-			continue;
-		dfs(child, node);
-	}
+  if(vis[node])
+    return;
+  vis[node] = true;
+  for(int &child : g[node]) {
+    if(child == parent)
+      continue;
+    dfs(child, node);
+  }
 }
