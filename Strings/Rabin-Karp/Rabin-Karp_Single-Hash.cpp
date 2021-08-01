@@ -5,26 +5,26 @@ using namespace std;
 const int N = 1e5 + 5, base = 31, mod = 1e9 + 7;
 
 class Rabin_Karp {
-	int power_B[N], Hash[N];
-	char s[N];
-	
-	int mul(long long x, int y) {
-		return x * y % mod;
-	}
-	
-	int add(long long x, int y) {
-		x += y;
-		while(x - mod >= 0)
-			x -= mod;
-		return x;
-	}
-	
-	int sub(int x, int y) {
-		x -= y;
-		while(x + mod <= 0)
-			x += mod;
-		return x;
-	}
+  int power_B[N], Hash[N];
+  char s[N];
+  
+  int mul(long long x, int y) {
+    return x * y % mod;
+  }
+  
+  int add(long long x, int y) {
+    x += y;
+    while(x - mod >= 0)
+      x -= mod;
+    return x;
+  }
+  
+  int sub(int x, int y) {
+    x -= y;
+    while(x + mod <= 0)
+      x += mod;
+    return x;
+  }
 
   public:
     int get_Hash(int l, int r) {
