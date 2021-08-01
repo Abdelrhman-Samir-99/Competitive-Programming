@@ -32,10 +32,12 @@
 
 
 ## Graphs
-+ Dijkstra
-    + [Operator over-loading.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Dijkstra/Dijkstra.cpp)
++ Single Source Shortest Path (SSSP)
+    + Dijkstra
+        + [Operator over-loading.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Dijkstra/Dijkstra.cpp)
+	+ [Bellman Ford.](https://github.com/SmallCat3699/Competitive-Programming/tree/main/Graphs/Bellman-Ford)
+
 + [Floyd Warshall.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Floyd%20Warshall/Floyd%20Warshall.cpp)
-+ Bellman Ford.
 + Minimum Spanning Tree (MST)
     + [Using kruskal.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Minimum%20Spanning%20Tree/Minimum%20Spanning%20Tree.cpp)
     + Using Prim.
@@ -49,7 +51,10 @@
     + [Pre-order.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/Pre-order.cpp)
     + [In-order.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/In-order.cpp) 
     + [DFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/dfs.cpp)
-    + [BFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/bfs.cpp) 
+    + [BFS.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Traversing/bfs.cpp)
++ Strongly Connected Components (SCC)
+    + [Tarjan.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Strongly%20Connected%20Components/Tarjan.cpp)
+    + Kosaraju
 + Others
     + [Cycle detection in directed graph.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Cycle%20Detection%20-%20Directed%20Graphs.cpp)
     + [Tree diameter.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Graphs/Others/Tree%20Diameter.cpp)
