@@ -3,7 +3,6 @@
 using namespace std;
 
 
-
 template <class T>
 class dsu {
   vector<T> par, Size;
