@@ -18,7 +18,7 @@ class bipartite {
       bfs.push(make_pair(source, 0));
 
       // Just doing normal BFS, and checking if there's a cycle then we must finish it as we started.
-      // Also can be used to see if there's a cycle of odd length.
+      // Also can be used to see if there's a cycle of odd length, if yes then this is not a bipartite graph.
       while(!bfs.empty()) {
         int top = bfs.front().first;
         int node_color = bfs.front().second;

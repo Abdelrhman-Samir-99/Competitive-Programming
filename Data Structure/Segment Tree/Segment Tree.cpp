@@ -27,7 +27,6 @@ class Segment_Tree {
       build(2 * x + 1, lx, mid);
       build(2 * x + 2, mid, rx);
       tree[x] = tree[2 * x + 1] + tree[2 * x + 2];
-      cout << _size << '\n';
     }
     
     void propagate(int x, int lx, int rx) {

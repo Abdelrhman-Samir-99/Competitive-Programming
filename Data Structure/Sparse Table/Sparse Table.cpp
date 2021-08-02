@@ -32,7 +32,8 @@ class Sparse_Table {
         }
       }
     }
-    
+
+    // Processing the query by getting the log2 of the length and processing 2 windows.
     int query(int l, int r) {
       int p = log2(r - l + 1);
       int x = sparse_Table[p][l];

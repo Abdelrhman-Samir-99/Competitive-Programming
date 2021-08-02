@@ -12,6 +12,13 @@ class SCC {
   
   int size, cnt;
 
+  // Tarjan is used to detect SCC in the graphs.
+  // Also to detect bridges.
+  // Run time is O(|E| + |V|).
+
+  // We calculate the lowest link for each node (lowest ancestor for this node) and when
+  // and when the node be the lowest ancestor of it self, that's mean the this is a root of a SCC.
+  
   public:
     SCC(int _size) : size(_size) {
       lowest_link.resize(size + 1, 1e9);
@@ -25,8 +32,7 @@ class SCC {
 
     void dfs(int node) {
       if(visited[node]) {
-
-
+        return;
       }
       time[node] = ++cnt;
       visited[node] = true;
@@ -62,6 +68,9 @@ class SCC {
       return make_pair(_SCC, SCC_ID);
     }
 
+    // Component graph is a graph where every SCC is compressed into one single node.
+    // So the number of nodes is the number of SCCs in the graph.
+    
     vector <vector<int>> build_CG() {
       vector <vector<int>> component_graph(int(_SCC.size() + 1), vector <int> ());
       for(int u = 1; u <= size; ++u) {

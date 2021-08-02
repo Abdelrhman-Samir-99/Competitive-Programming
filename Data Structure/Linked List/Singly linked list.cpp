@@ -7,8 +7,8 @@ class List {
   
   private:
     struct node {
-      T data;
       node* next;
+      T data;
     };
     
     node* current; // We use this variable as an iterator.

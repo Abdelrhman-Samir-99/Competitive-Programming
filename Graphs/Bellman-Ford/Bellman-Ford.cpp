@@ -8,7 +8,10 @@ struct edge {
   
 template <class T>
 class bellman {
-  
+
+  // Bellman is simple algorithm used to detect negtative cycle and find SSSP in O(|V| * |E|).
+  // The idea is the longest path in the SSSP tree may be of length n - 1, so we don't need more than n - 1 iterations.
+  // Each iteration we just relax the edges.
   const T size, _edges, INF;
   vector <edge> edges;
   vector <T> SSSP;

@@ -7,14 +7,14 @@ class List {
 
   private:
     struct node {
-      T data;
       node* next;
       node* prev;
+      T data;
     };
 
+    node* current;
     node* head;
     node* tail;
-    node* current;
 
   public:
     int Lenght;

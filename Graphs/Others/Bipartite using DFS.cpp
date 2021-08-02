@@ -15,7 +15,7 @@ class bipartite {
       // Doing normal DFS for each connected component.
       // IFF there's a cycle then when we back to same name we must back with the same color.
       // otherwise this is not a bipartite graph.
-      if(visited[node]) [
+      if(visited[node]) {
         if(color[node] != node_color)
           return false;
       }

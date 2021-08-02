@@ -7,6 +7,10 @@ const int N = 1e5 + 5;
 int longest, current_node;
 vector <int> g[N];
 
+// Simply doing 2 dfs.
+// First one to get the farthest node from the src.
+// second one to get the farthest node from the current node.
+
 void dfs(int node, int parent = -1, int depth = 0) {
   if(depth >= longest) {
     longest = depth;

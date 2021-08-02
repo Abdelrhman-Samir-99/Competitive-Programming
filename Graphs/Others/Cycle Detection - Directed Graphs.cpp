@@ -9,6 +9,9 @@ vector <int> g[N];
 vector <bool> in_stack, visited;
 
 
+// Using a boolean vector to keep track of the nodes in the current stack.
+// if we visited a node in the stack then there must be a cycle.
+
 bool Cycle_Detection(int node) {
   if(visited[node]) {
     if(in_stack[node])
