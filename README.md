@@ -18,7 +18,7 @@
 + [Segment Tree.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Segment%20Tree/Segment%20Tree.cpp)
 + [Sparse Table.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Sparse%20Table/Sparse%20Table.cpp)
 + [Unbalanced Binary Search Tree (add, erase, find, lower & upper bound, get_Root).](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Binary%20Search%20Tree/Binary%20Search%20Tree.cpp)
-+ AVL Tree.
++ [AVL Tree](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/AVL%20Tree/AVL%20tree.cpp).
 + Linked List
     + [Singly.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Linked%20List/Singly%20linked%20list.cpp)
     + [Doubly.](https://github.com/SmallCat3699/Competitive-Programming/blob/main/Data%20Structure/Linked%20List/Doubly%20linked%20list.cpp)
